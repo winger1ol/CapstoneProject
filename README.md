@@ -3,7 +3,7 @@ https://users.encs.concordia.ca/~eceweb/capstone/projectshow.php?id=637
 
 Sports Vision Pro
 --
-cool VR sport experience
+cool VR sports experience
 
 Group members
 --
