@@ -21,5 +21,5 @@ Samson Kaller		40136815
 Tien Vu		40044988
 
 
-Phase 1 (see phase1-preparation folder)
+Phase 1 (see phase1 folder)
 ==
