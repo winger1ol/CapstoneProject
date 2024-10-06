@@ -1,5 +1,10 @@
 # Capstone-COEN490
+
 Vision Sport Pro
+--
+
+Group members
+--
 
 Guanfeng Wu		40165181
 
